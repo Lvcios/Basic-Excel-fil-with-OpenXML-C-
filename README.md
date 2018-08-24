@@ -1,2 +1,2 @@
-# Basic-Excel-fil-with-OpenXML-C-
+# Basic Excel file with OpenXML C\#
 Simple Excel built using a template
